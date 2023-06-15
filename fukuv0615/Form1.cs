@@ -25,7 +25,7 @@ namespace fukuv0615
             {
                 MessageBox.Show("Bingo!");
                 count = 0;
-                ans = rand.Next(100);   
+                ans = rand.Next(101);   
             }
             else if(guess < ans)
                 MessageBox.Show("Less");
