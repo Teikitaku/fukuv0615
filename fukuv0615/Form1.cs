@@ -4,7 +4,7 @@ namespace fukuv0615
     {
 
         static Random rand = new Random();
-        int ans = rand.Next(100);
+        int ans = rand.Next(101);
         int count = 0;
         public Form1()
         {
